@@ -10,7 +10,7 @@
     <version>1.0</version>
     <modules>
         <module>flink-1.10.1</module>
-        <module>flink-1.11.0</module>
+        <module>flink-1.11.1</module>
         <module>flink-1.7.2</module>
         <module>flink-1.9.3</module>
         <module>flink-1.8.3</module>
@@ -24,6 +24,7 @@
         <flink.version.1.9.3>1.9.3</flink.version.1.9.3>
         <flink.version.1.10.1>1.10.1</flink.version.1.10.1>
         <flink.version.1.11.0>1.11.0</flink.version.1.11.0>
+        <flink.version.1.11.1>1.11.1</flink.version.1.11.1>
     </properties>
 
     <build>
